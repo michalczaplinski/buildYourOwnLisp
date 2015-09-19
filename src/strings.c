@@ -17,7 +17,7 @@ void add_history(char* unused) {}
 
 #else
 #include <editline/readline.h>
-#include <editline/history.h>
+  
 #endif
 
 /* Parser Declariations */
